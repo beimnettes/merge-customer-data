@@ -1,4 +1,4 @@
-Merging Two Sorted Arrays for Data Analytics
+Merging Two-Sorted Arrays for Data Analytics
 Problem Description
 This project involves merging two sorted arrays, customerData1 and customerData2, into a single sorted array in-place. This task simulates a common scenario in data analytics where customer records from multiple databases need to be consolidated efficiently.
 
@@ -8,11 +8,11 @@ customerData2: A sorted array to be merged into customerData1.
 m: Number of valid elements in customerData1.
 n: Number of elements in customerData2.
 Output
-A single sorted array stored in customerData1.
+A single sorted array is stored in customerData1.
 
 Example
 Input:
-python
+Python
 Copy
 Edit
 customerData1 = [101, 104, 107, 0, 0, 0]
